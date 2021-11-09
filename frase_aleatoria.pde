@@ -1,3 +1,6 @@
+//this code was first worked on at Diego de los Campos' work group during the first months of the COVID19 quarantine in the year of 2020. 
+
+
 PFont miF;
 String [] sustantivo = {"Extinção", "Amor", "Dor", "Esquecimento"};
 String [] verbo      = {"é", "era", "será", "foi", "não é" };
