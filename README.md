@@ -18,3 +18,17 @@ Instagram became the new facebook, not only economically, but also in a linguist
 I found it very amusing that a simple western formula for the production of knowledge turned out so coherent when it comes to inspirational instagram posts: affirmation, questioning, resolution. Three simple sentences. 
 
 A first glimpse on my interpretation of that can be seen at https://editor.p5js.org/iverubini/sketches/seAX5ibyX . Now I'd like to turn it into a novel with 50k words, and i think the solution is to generate thousands of instagram posts using Processing. 
+
+30/11/21
+
+For the final version, I calculated the average of words in each page, which was 82. So I multiplied this by 610, in order to achieve 50k words in total, resulting in 610 pages consisting in 6 inspirational instagram posts. 
+
+The final structure of each post was: affirmation + icon + question + longer affirmation + hashtag. 
+
+For a greater variety of sentences, I used two word banks: https://github.com/janester/mad_libs/blob/master/List%20of%20Plural%20Nouns.txt for nouns and https://www.wordexample.com/list/verbs-in-english#google_vignette for verbs conjugated in the third person. 
+
+I used this dingbat font for the icons: https://www.dafont.com/de/cute-icons.font . I didn't use all of the characters like letters v, r and x. 
+
+People's names came from sci-fi stories like 1984, Brave New World and Rocky Horror Picture Show. 
+
+The file affirmations.pde generates one frame per play in Processing, and affirmations_pdf.pde generates 610 pages with 6 instagram posts each. 
