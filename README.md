@@ -32,3 +32,5 @@ I used this dingbat font for the icons: https://www.dafont.com/de/cute-icons.fon
 People's names came from sci-fi stories like 1984, Brave New World and Rocky Horror Picture Show. 
 
 The file affirmations.pde generates one frame per play in Processing, and affirmations_pdf.pde generates 610 pages with 6 instagram posts each. 
+
+Final version of the novel can be downloaded at: https://drive.google.com/file/d/1YhSJz37gpiH9NTJDaZ38wx4dpsR6au3C/view?usp=sharing .
