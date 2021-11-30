@@ -2,8 +2,8 @@ PFont miF, icons1;
 
 import processing.pdf.*;
 
- // This code was made for the NaNoGenMo project: link.
- // Thanks to Diego de los Campos, Daniel Shiffman, Christian Heck... http://learningprocessing.com/examples/chp16/example-16-06-Grid
+ // This code was made for NaNoGenMo 2021: https://github.com/NaNoGenMo/2021 .
+ // Thanks to Diego de los Campos and Daniel Shiffman for the initial codes and inspiration, and Christian Heck, Julia Nakotte, Benita, Naoto and Sayaka @ KHM.
  
 String [] subject = {"George", "Pasadena", "Michaella", "Cologne", "London", "He", "Winston", "Sophia", "Gertrude", "She"};
 String [] verb = {"destroys", "brings", "fabricates", "analyses", "criticizes", "likes", "reads", "breaks down", "prints", "thinks about", "eroticizes"};
