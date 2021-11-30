@@ -33,4 +33,4 @@ People's names came from sci-fi stories like 1984, Brave New World and Rocky Hor
 
 The file affirmations.pde generates one frame per play in Processing, and affirmations_pdf.pde generates 610 pages with 6 instagram posts each. 
 
-Final version of the novel can be downloaded at: https://drive.google.com/file/d/1YhSJz37gpiH9NTJDaZ38wx4dpsR6au3C/view?usp=sharing .
+Final version of the novel can be downloaded at: https://drive.google.com/file/d/1YhSJz37gpiH9NTJDaZ38wx4dpsR6au3C/view?usp=sharing . A smaller preview can be seen in this repository under affirmationsPreview.pdf .
